@@ -4,7 +4,7 @@
     "type": "project",
     "license": "GPL-2.0+",
     "keywords": ["sfphp","framework","sincco"],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authors": [
         {
             "name": "Ivan Miranda",
@@ -13,7 +13,8 @@
     ],
     "require": {
         "composer/installers": "^1.2",
-        "cweagans/composer-patches": "^1.6"
+        "cweagans/composer-patches": "^1.6",
+        "sincco/sfphp": "2.*"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
