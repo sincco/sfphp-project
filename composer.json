@@ -3,10 +3,12 @@
     "description": "Create new Sfphp project with composer",
     "type": "project",
     "license": "GPL-2.0+",
+    "keywords": ["sfphp","framework","sincco"],
+    "version": "0.0.1",
     "authors": [
         {
-            "name": "",
-            "role": ""
+            "name": "Ivan Miranda",
+            "email": "ivan.miranda@sincco.com"
         }
     ],
     "require": {
